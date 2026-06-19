@@ -21,9 +21,16 @@ Reduced nonprofit outreach processing time by 45.94% and increased lead sourcing
 
 ## Overview
 
-Community Healing Zone is a monthly, volunteer-led outreach initiative I founded two years ago, focused on serving individuals experiencing homelessness in the DC area through clothing distribution, free haircuts, and community support.
+## Background
 
-Since we rely on community partners to source clothes donations and volunteer support, the goal was to determine whether AI could increase outreach capacity without sacrificing personalization or relationship quality.
+Two years ago, I founded a community outreach initiative called Community Healing Zone. Through monthly events, our volunteers distributed clothing, hygiene supplies, and free haircuts to individuals experiencing homelessness in the Washington, DC area.
+
+Early growth came primarily through friends, family, and personal networks. Over time, donations began arriving faster than we could distribute them, and we eventually ran out of storage space. It became clear that relying solely on personal connections would limit the organization's ability to grow.
+
+Churches felt like a natural next source of partnerships and support, but researching organizations, identifying contacts, drafting outreach, and tracking communication manually was extremely time-consuming.
+
+This project explored whether AI-assisted workflows could increase outreach capacity while preserving personalization and human judgment.
+
 
 ## Problem
 
