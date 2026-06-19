@@ -1,11 +1,17 @@
 # Nonprofit-Lead-Sourcing-Outreach-Automation
-Reduced nonprofit outreach processing time by 45.9% and increased lead sourcing throughput by 85% through an AI-assisted qualification and outreach workflow.
+
+## Results at a Glance
+
+- 45.94% reduction in processing time
+- 84.98% increase in throughput
+- 7.69 → 14.23 leads per hour
+- +32.69 additional leads per 5-hour work session
 
 ---
 
 ## Overview
 
-Community Healing Zone is a volunteer-led outreach initiative focused on serving individuals experiencing homelessness through clothing distribution, free haircuts, and community support.
+Community Healing Zone is a monthly, volunteer-led outreach initiative I founded two years ago, focused on serving individuals experiencing homelessness in the DC area through clothing distribution, free haircuts, and community support.
 
 As the organization grew, identifying and contacting potential church and community partners became increasingly time-consuming. Researching organizations, finding relevant contacts, drafting personalized outreach, and tracking activity required significant manual effort.
 
