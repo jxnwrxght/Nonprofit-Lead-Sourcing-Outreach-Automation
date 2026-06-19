@@ -23,7 +23,7 @@ Reduced nonprofit outreach processing time by 45.94% and increased lead sourcing
 
 Community Healing Zone is a monthly, volunteer-led outreach initiative I founded two years ago, focused on serving individuals experiencing homelessness in the DC area through clothing distribution, free haircuts, and community support.
 
-This project evaluated whether AI-assisted workflows could reduce outreach time while maintaining personalization and human oversight.
+The goal was to determine whether AI could increase outreach capacity without sacrificing personalization or relationship quality.
 
 ## Problem
 
@@ -35,7 +35,25 @@ The existing outreach process relied on manually:
 - Drafting personalized outreach messages
 - Tracking outreach activity
 
+## Approach
+
+To establish a baseline, I timed the full outreach process across multiple organizations, including research, qualification, contact discovery, outreach drafting, and logging.
+
+I then introduced an AI-assisted workflow to support:
+
+- Organization research summarization
+- Outreach signal extraction
+- Personalized outreach drafting
+
+Human review remained part of the process before any communication was sent.
+
 ## Results
+
+Testing Sample
+
+- 10 organizations evaluated
+- Manual baseline established
+- AI-assisted comparison conducted
 
 ### Manual Process
 
@@ -60,3 +78,10 @@ Future versions may include:
 - Outreach prioritization
 - Dashboard automation
 - Performance monitoring
+
+## Repository Contents
+
+- Executive Summary
+- Full Case Study
+- Presentation Deck
+- Outreach Tracking Dashboard
