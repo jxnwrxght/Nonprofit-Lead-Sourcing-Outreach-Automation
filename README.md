@@ -1,6 +1,8 @@
 # Nonprofit-Lead-Sourcing-Outreach-Automation
 Reducing manual outreach time for community partnership sourcing through AI-assisted research, qualification, and personalized outreach workflows.
 
+---
+
 ## Overview
 
 Community Healing Zone is a volunteer-led outreach initiative focused on serving individuals experiencing homelessness through clothing distribution, free haircuts, and community support.
