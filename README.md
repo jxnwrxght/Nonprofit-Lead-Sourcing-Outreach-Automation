@@ -11,6 +11,12 @@ Reduced nonprofit outreach processing time by 45.94% and increased lead sourcing
 - 7.69 → 14.23 leads per hour
 - +32.69 additional leads per 5-hour work session
 
+![Efficiency Impact](Efficiency%20Impact.png)
+
+![Throughput Comparison](Throughput%20Comparison.png)
+
+![Time Reduction Per Lead](Time%20Reduction%20Per%20Lead.png)
+
 ---
 
 ## Workflow
@@ -72,16 +78,3 @@ Future versions may include:
 - Outreach prioritization
 - Dashboard automation
 - Performance monitoring
-
-
-
-
-
-
-## Test
-
-![Efficiency Impact](Efficiency%20Impact.png)
-
-![Throughput Comparison](Throughput%20Comparison.png)
-
-![Time Reduction Per Lead](Time%20Reduction%20Per%20Lead.png)
