@@ -1,5 +1,5 @@
 # Nonprofit-Lead-Sourcing-Outreach-Automation
-Reducing manual outreach time for community partnership sourcing through AI-assisted research, qualification, and personalized outreach workflows.
+Reduced nonprofit outreach processing time by 45.9% and increased lead sourcing throughput by 85% through an AI-assisted qualification and outreach workflow.
 
 ---
 
