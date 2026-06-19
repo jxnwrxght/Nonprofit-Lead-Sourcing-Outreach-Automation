@@ -19,24 +19,6 @@ Reduced nonprofit outreach processing time by 45.94% and increased lead sourcing
 
 ---
 
-## Workflow
-
-![Workflow Diagram](images/workflow-diagram.png)
-
----
-
-## Results Summary
-
-![Results Summary](images/results-summary.png)
-
----
-
-## Dashboard
-
-![Dashboard Screenshot](images/dashboard-screenshot.png)
-
----
-
 ## Overview
 
 Community Healing Zone is a monthly, volunteer-led outreach initiative I founded two years ago, focused on serving individuals experiencing homelessness in the DC area through clothing distribution, free haircuts, and community support.
