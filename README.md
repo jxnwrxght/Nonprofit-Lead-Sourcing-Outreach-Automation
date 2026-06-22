@@ -14,11 +14,11 @@ Built to reduce research time, improve outreach quality, and support monthly hom
 - +32.69 additional leads per 5-hour work session
 - Supported real-world partnership development for Community Healing Zone
 
-![Efficiency Impact](Efficiency%20Impact.png)
+![Efficiency Impact](images/efficiency-impact.png)
 
-![Throughput Comparison](Throughput%20Comparison.png)
+![Throughput Comparison](images/throughput-comparison.png)
 
-![Time Reduction Per Lead](Time%20Reduction%20Per%20Lead.png)
+![Time Reduction Per Lead](images/time-reduction-per-lead.png)
 
 ---
 
@@ -32,7 +32,8 @@ Churches felt like a natural next source of partnerships and support, but resear
 
 This project explored whether AI-assisted workflows could increase outreach capacity while still preserving personalization and human judgment.
 
-![Community Outreach Event](community-outreach-event.jpg)
+![Community Outreach Event](images/community-outreach-event.jpg)
+
 
 ## Problem
 
@@ -68,7 +69,7 @@ The redesign featured an AI-assisted workflow that supports:
 
 A structured dashboard was used to track organizations, qualification criteria, outreach status, contact information, and partnership opportunities.
 
-![Outreach Dashboard](outreach-dashboard.png)
+![Research Dashboard](images/outreach-dashboard.png)
 
 Sensitive contact information has been removed for privacy.
 Human review remained part of the process before any communication was sent.
@@ -79,7 +80,7 @@ Rather than sending generic mass emails, each organization received outreach tai
 
 The workflow emphasized personalization over volume.
 
-![Personalized Outreach Example](outreach-email-example.png)
+![Personalized Outreach Example](images/outreach-email-example.png)
 
 ## Results
 
