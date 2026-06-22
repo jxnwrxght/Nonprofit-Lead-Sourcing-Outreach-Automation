@@ -29,12 +29,12 @@ Early growth came primarily through friends, family, and personal networks. Over
 
 Churches felt like a natural next source of partnerships and support, but researching organizations, identifying contacts, drafting outreach, and tracking communication manually was extremely time-consuming.
 
-This project explored whether AI-assisted workflows could increase outreach capacity while preserving personalization and human judgment.
+This project explored whether AI-assisted workflows could increase outreach capacity while still preserving personalization and human judgment.
 
 
 ## Problem
 
-The existing outreach process relied on manually:
+The initial outreach process relied on manually:
 
 - Researching potential partner organizations
 - Identifying outreach contacts
