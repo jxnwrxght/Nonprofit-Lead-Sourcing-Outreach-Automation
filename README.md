@@ -1,13 +1,15 @@
 # Nonprofit Lead Sourcing & Outreach Automation
 
-Reduced nonprofit outreach processing time by 45.94% and increased lead sourcing throughput by 84.98% through an AI-assisted qualification and outreach workflow.
+A workflow redesign and AI-assisted outreach system built for Community Healing Zong to improve partner sourcing, qualification, outreach, and relationship management.
+
+The goal was simple: spend less time on manual research and admin work, so more time could be spent building partnerships and serving people.
 
 ---
 
 ## Results at a Glance
 
 - 45.94% reduction in processing time
-- 84.98% increase in throughput
+- 84.98% increase in lead sourcing throughput
 - 7.69 → 14.23 leads per hour
 - +32.69 additional leads per 5-hour work session
 
@@ -42,15 +44,28 @@ The initial outreach process relied on manually:
 - Drafting personalized outreach messages
 - Tracking outreach activity
 
+As outreach volume increased, the process became difficult to scale efficiently. 
+
 ## Approach
 
 To establish a baseline, I timed the full outreach process across multiple organizations, including research, qualification, contact discovery, outreach drafting, and logging.
 
-I then introduced an AI-assisted workflow to support:
+## Redesigned Workflow
 
-- Organization research summarization
-- Outreach signal extraction
+The redesigned workflow standardized research, qualification, outreach generation, and tracking while maintaining personalized communication with prospective partners.
+
+The redesign featured an AI-assisted workflow that supported: 
+
+- Standardized research
+- Lead Qualification
+- Outreach generation
+- Lead Tracking
 - Personalized outreach drafting
+
+## Research & Qualification Dashboard
+
+Example outreach tracking dashboard used to research, qualify, and manage prospective church partnerships.
+Sensitive contact information has been removed.
 
 Human review remained part of the process before any communication was sent.
 
@@ -74,7 +89,7 @@ Testing Sample
 
 ## Lessons Learned
 
-I initially expected outreach drafting to be the largest bottleneck. After reducing drafting time, the next constraint became locating decision-makers and finding reliable contact information. Improving one stage of the workflow exposed the next bottleneck.
+I initially expected outreach drafting to be the largest bottleneck. After reducing drafting time, the next constraint became locating decision-makers and finding reliable contact information. Improving one stage of the workflow exposed the next bottleneck. The project also reinforced that successful automation is often less about replacing people with new technology and more about helping people focus on higher-value work. 
 
 ## Next Iteration
 
