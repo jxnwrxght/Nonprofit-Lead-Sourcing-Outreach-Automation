@@ -1,6 +1,6 @@
 # Nonprofit Lead Sourcing & Outreach Automation
 
-Helping Community Healing Zone identify, qualify, and connect with local churches and organizations for clothing donation partnerships.
+A workflow automation case study focused on helping a local non profit identify, qualify, and connect with local churches and organizations for clothing donation partnerships.
 
 Built to reduce research time, improve outreach quality, and support monthly homeless outreach events in Washington DC.
 
@@ -31,9 +31,6 @@ Early growth came primarily through friends, family, and personal networks. Over
 Churches felt like a natural next source of partnerships and support, but researching organizations, identifying contacts, drafting outreach, and tracking communication manually was extremely time-consuming.
 
 This project explored whether AI-assisted workflows could increase outreach capacity while still preserving personalization and human judgment.
-
-![Community Outreach Event](images/community-outreach-event.jpg)
-
 
 ## Problem
 
@@ -84,7 +81,7 @@ The workflow emphasized personalization over volume.
 
 ## Results
 
-Testing Sample
+Pilot Results
 
 - 10 organizations evaluated
 - Manual baseline established
@@ -100,19 +97,11 @@ Testing Sample
 - Average time per lead: 4m 13s
 - Throughput: 14.23 leads/hour
 
-## Lessons Learned
+## Key Takeaways
 
-I initially expected outreach drafting to be the largest bottleneck. After reducing drafting time, the next constraint became locating decision-makers and finding reliable contact information. Improving one stage of the workflow exposed the next bottleneck. The project also reinforced that successful automation is often less about replacing people with new technology and more about helping people focus on higher-value work. 
+The most valuable lesson from this project was that AI didn't replace the outreach process. Instead, it reduced the administrate work around it. That created more time for relationship building, partnership development, and ultimately serving more people directly.
 
-## Next Iteration
-
-Future versions may include:
-
-- Automated contact discovery
-- Lead scoring
-- Outreach prioritization
-- Dashboard automation
-- Performance monitoring
+![Community Outreach Event](images/community-outreach-event.jpg)
 
 ## Repository Contents
 
@@ -121,7 +110,6 @@ Future versions may include:
 - case-study-writeup.pdf
 - executive-summary.pdf
 - presentation-deck.pptx
-- outreach-tracking-dashboard.xlsx
 
 ### Images
 
@@ -132,3 +120,7 @@ Future versions may include:
 - outreach-email-example.png
 - throughput-comparison.png
 - time-reduction-per-lead.png
+
+## Data
+
+- outreach-tracking-dashboard.xlsx
