@@ -125,10 +125,10 @@ Future versions may include:
 
 ### Images
 
-── community-outreach-event.jpg
-── efficiency-impact.png
-── nonprofit-workflow-diagram.png
-── outreach-dashboard.png
-── outreach-email-example.png
-── throughput-comparison.png
-── time-reduction-per-lead.png
+- community-outreach-event.jpg
+- efficiency-impact.png
+- nonprofit-workflow-diagram.png
+- outreach-dashboard.png
+- outreach-email-example.png
+- throughput-comparison.png
+- time-reduction-per-lead.png
