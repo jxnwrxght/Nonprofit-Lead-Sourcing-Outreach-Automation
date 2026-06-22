@@ -1,8 +1,8 @@
 # Nonprofit Lead Sourcing & Outreach Automation
 
-A workflow redesign and AI-assisted outreach system built for Community Healing Zone to improve partner sourcing, qualification, outreach, and relationship management.
+Helping Community Healing Zone identify, qualify, and connect with local churches and organizations for clothing donation partnerships.
 
-The goal was simple: spend less time on manual research and admin work, so more time could be spent building partnerships and serving people.
+Built to reduce research time, improve outreach quality, and support monthly homeless outreach events in Washington DC.
 
 ---
 
@@ -12,6 +12,7 @@ The goal was simple: spend less time on manual research and admin work, so more 
 - 84.98% increase in lead sourcing throughput
 - 7.69 → 14.23 leads per hour
 - +32.69 additional leads per 5-hour work session
+- Supported real-world partnership development for Community Healing Zone
 
 ![Efficiency Impact](Efficiency%20Impact.png)
 
@@ -53,30 +54,32 @@ To establish a baseline, I timed the full outreach process across multiple organ
 
 The redesigned workflow standardized research, qualification, outreach generation, and tracking while maintaining personalized communication with prospective partners.
 
-The redesign featured an AI-assisted workflow that supported: 
+The redesign featured an AI-assisted workflow that supports: 
 
-- Standardized research
-- Lead Qualification
-- Outreach generation
-- Lead Tracking
-- Personalized outreach drafting
-
+1. Organization Discovery
+2. Qualification & Research
+3. Contact Identification
+4. Personalized Outreach Creation
+5. Follow-Up & Partnership Development
+   
 ![Community Healing Zone Workflow](nonprofit-workflow-diagram.png)
 
 ## Research & Qualification Dashboard
 
+A structured dashboard was used to track organizations, qualification criteria, outreach status, contact information, and partnership opportunities.
+
 ![Outreach Dashboard](outreach-dashboard.png)
 
-Example outreach tracking dashboard used to research, qualify, and manage prospective church partnerships.
-Sensitive contact information has been removed.
-
+Sensitive contact information has been removed for privacy.
 Human review remained part of the process before any communication was sent.
 
 ## Personalized Outreach Example
 
-![Personalized Outreach Example](outreach-email-example.png)
+Rather than sending generic mass emails, each organization received outreach tailored to its mission, programs, and community involvement.
 
-Example outreach: the message references the organization's specific mission and outreach programs rather than relying on generic templates. The outreach resulted in a direct response and follow-up conversation regarding a potential partnership opportunity.
+The workflow emphasized personalization over volume.
+
+![Personalized Outreach Example](outreach-email-example.png)
 
 ## Results
 
@@ -112,22 +115,19 @@ Future versions may include:
 
 ## Repository Contents
 
-### Documentation
+### Docs
 
-- Executive Summary.pdf
-- Case Study Write Up.pdf
-- Slide Deck.pptx
+- case-study-writeup.pdf
+- executive-summary.pdf
+- presentation-deck.pptx
+- outreach-tracking-dashboard.xlsx
 
-### Analysis Files
+### Images
 
-- Outreach Tracking Dashboard.xlsx
-
-### Visual Assets
-
-- Efficiency Impact.png
-- Throughput Comparison.png
-- Time Reduction Per Lead.png
-- community-outreach-event.jpg
-- outreach-dashboard.png
-- outreach-email-example.png
-- nonprofit-workflow-diagram.png
+── community-outreach-event.jpg
+── efficiency-impact.png
+── nonprofit-workflow-diagram.png
+── outreach-dashboard.png
+── outreach-email-example.png
+── throughput-comparison.png
+── time-reduction-per-lead.png
