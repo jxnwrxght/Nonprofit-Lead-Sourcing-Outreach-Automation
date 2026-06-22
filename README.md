@@ -110,6 +110,8 @@ The most valuable lesson from this project was that AI didn't replace the outrea
 - case-study-writeup.pdf
 - executive-summary.pdf
 - presentation-deck.pptx
+- data/
+  - outreach-tracking-dashboard.xlsx
 
 ### Images
 
@@ -120,7 +122,3 @@ The most valuable lesson from this project was that AI didn't replace the outrea
 - outreach-email-example.png
 - throughput-comparison.png
 - time-reduction-per-lead.png
-
-## Data
-
-- outreach-tracking-dashboard.xlsx
