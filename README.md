@@ -1,6 +1,6 @@
 # Nonprofit Lead Sourcing & Outreach Automation
 
-A workflow redesign and AI-assisted outreach system built for Community Healing Zong to improve partner sourcing, qualification, outreach, and relationship management.
+A workflow redesign and AI-assisted outreach system built for Community Healing Zone to improve partner sourcing, qualification, outreach, and relationship management.
 
 The goal was simple: spend less time on manual research and admin work, so more time could be spent building partnerships and serving people.
 
@@ -21,8 +21,6 @@ The goal was simple: spend less time on manual research and admin work, so more 
 
 ---
 
-## Overview
-
 ## Background
 
 Two years ago, I founded a community outreach initiative called Community Healing Zone. Through monthly events, our volunteers distributed clothing, hygiene supplies, and free haircuts to individuals experiencing homelessness in the Washington, DC area.
@@ -33,6 +31,7 @@ Churches felt like a natural next source of partnerships and support, but resear
 
 This project explored whether AI-assisted workflows could increase outreach capacity while still preserving personalization and human judgment.
 
+![Community Outreach Event](community-outreach-event.jpg)
 
 ## Problem
 
@@ -62,12 +61,22 @@ The redesign featured an AI-assisted workflow that supported:
 - Lead Tracking
 - Personalized outreach drafting
 
+![Community Healing Zone Workflow](nonprofit-workflow-diagram.png)
+
 ## Research & Qualification Dashboard
+
+![Outreach Dashboard](outreach-dashboard.png)
 
 Example outreach tracking dashboard used to research, qualify, and manage prospective church partnerships.
 Sensitive contact information has been removed.
 
 Human review remained part of the process before any communication was sent.
+
+## Personalized Outreach Example
+
+![Personalized Outreach Example](outreach-email-example.png)
+
+Example outreach: the message references the organization's specific mission and outreach programs rather than relying on generic templates. The outreach resulted in a direct response and follow-up conversation regarding a potential partnership opportunity.
 
 ## Results
 
@@ -103,7 +112,22 @@ Future versions may include:
 
 ## Repository Contents
 
-- Executive Summary
-- Full Case Study
-- Presentation Deck
-- Outreach Tracking Dashboard
+### Documentation
+
+- Executive Summary.pdf
+- Case Study Write Up.pdf
+- Slide Deck.pptx
+
+### Analysis Files
+
+- Outreach Tracking Dashboard.xlsx
+
+### Visual Assets
+
+- Efficiency Impact.png
+- Throughput Comparison.png
+- Time Reduction Per Lead.png
+- community-outreach-event.jpg
+- outreach-dashboard.png
+- outreach-email-example.png
+- nonprofit-workflow-diagram.png
