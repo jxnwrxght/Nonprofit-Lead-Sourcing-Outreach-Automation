@@ -63,7 +63,7 @@ The redesign featured an AI-assisted workflow that supports:
 4. Personalized Outreach Creation
 5. Follow-Up & Partnership Development
    
-![Community Healing Zone Workflow](nonprofit-workflow-diagram.png)
+![Community Healing Zone Workflow](images/nonprofit-workflow-diagram.png)
 
 ## Research & Qualification Dashboard
 
